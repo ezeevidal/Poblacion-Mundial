@@ -19,7 +19,7 @@ El conjunto de datos abarca información demográfica y sanitaria de 195 países
   - SQL: Para gestionar y consultar bases de datos.
   - GitHub: Para el control de versiones y colaboración.
 
-##Objetivos del Proyecto
+## Objetivos del Proyecto
 
 ✅ Explorar y analizar la población mundial y su relación con las tasas de natalidad.
 
